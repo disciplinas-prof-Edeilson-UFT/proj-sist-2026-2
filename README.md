@@ -12,7 +12,7 @@ Bacharelado em Ciência da Computação
 💡 Projeto de Sistemas
 🛠 Projetos Desenvolvidos
 Grupo 1 — Nome do Projeto
-Grupo 2 — Obra Circular
+[Grupo 2 — Obra Circular](#grupo-2-obra-circular)
 Grupo 3 — Nome do Projeto
 Grupo 4 — Nome do Projeto
 Grupo 5 — Nome do Projeto
@@ -161,7 +161,11 @@ Documentação técnica	Acessar documentação
 
 Insira aqui a fotografia ou o registro da equipe.
 
-7.2. 🚀 Grupo 2 — Obra Circular
+---
+
+<a id="grupo-2-obra-circular"></a>
+
+### 7.2. ♻️ Grupo 2 — Obra Circular
 
 <table align="center">
   <tr>
@@ -177,57 +181,70 @@ Insira aqui a fotografia ou o registro da equipe.
   </tr>
 </table>
 
-Descrição do projeto
+<p align="center">
+  <a href="https://github.com/joseguifs/obraCircular"><strong>Explorar o repositório</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joseguifs/obraCircular#primeira-configuração">Executar o projeto</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joseguifs/obraCircular/blob/HEAD/backend/README.md">Documentação técnica</a>
+</p>
 
-O Obra Circular é um marketplace para compra e venda de materiais de construção, voltado ao reaproveitamento de materiais e sobras de obras. A proposta é reduzir o desperdício e facilitar o acesso a materiais mais acessíveis, conectando pessoas que possuem itens disponíveis a compradores que precisam deles para construir ou reformar.
+#### 🌱 Sobre o projeto
 
-O sistema atende pessoas em obras ou reformas, profissionais e empresas da construção civil. Pela plataforma, os usuários podem publicar anúncios com fotos, pesquisar materiais, tirar dúvidas com vendedores, realizar compras e acompanhar pedidos, pagamentos e a confirmação de entrega ou retirada.
+O **Obra Circular** é um marketplace de compra e venda de materiais de construção. Conectamos quem tem materiais e sobras de obras a quem precisa deles para construir ou reformar, incentivando o reaproveitamento e o acesso a preços mais acessíveis.
 
-🎯 Objetivos e funcionalidades
+A plataforma atende **pessoas em obras ou reformas, profissionais e empresas da construção civil**, reunindo anúncios, compras e acompanhamento de pedidos em um só lugar.
 
-- Incentivar a economia circular e o reaproveitamento de materiais de construção.
-- Cadastrar e autenticar usuários, com gerenciamento de perfil e endereços.
-- Publicar e gerenciar anúncios com categorias, fotos, preços e quantidades disponíveis.
-- Consultar anúncios com busca e filtros, visualizar detalhes e fazer perguntas aos vendedores.
-- Realizar compras com pagamento integrado ao Mercado Pago e acompanhar pedidos e vendas.
-- Confirmar entrega ou retirada por PIN e permitir a abertura e o acompanhamento de contestações.
-- Disponibilizar um painel administrativo para gestão de usuários, anúncios e categorias.
+> **Nosso propósito:** manter materiais em circulação, reduzir o desperdício e estimular a economia circular na construção.
 
-💻 Tecnologias utilizadas
+#### 🧭 Da publicação à entrega
 
-- Frontend: React 19 · TypeScript · Vite · React Router.
-- Backend: Python · FastAPI · SQLAlchemy assíncrono · Pydantic · Alembic.
-- Banco de dados: PostgreSQL.
-- Pagamentos: Mercado Pago Checkout Pro.
-- Qualidade e testes: Pytest · Ruff · mypy · Vitest · Testing Library · Oxlint.
+| Etapa | O que o sistema oferece |
+| :--- | :--- |
+| **01 · Criar uma conta** | Cadastro, autenticação e gerenciamento de perfil e endereços. |
+| **02 · Anunciar materiais** | Publicação e gestão de anúncios com fotos, categorias, preços e quantidades disponíveis. |
+| **03 · Encontrar o que precisa** | Busca com filtros, detalhes dos materiais e perguntas e respostas com vendedores. |
+| **04 · Comprar e acompanhar** | Pagamento com Mercado Pago e acompanhamento de compras, pedidos e vendas. |
+| **05 · Confirmar a entrega** | Confirmação de entrega ou retirada por PIN e abertura e acompanhamento de contestações. |
 
-👥 Integrantes
+**Gestão da plataforma:** painel administrativo para gerenciar usuários, anúncios e categorias.
 
-| Nome | Github |
-| ------------------------- | ------------------------------------------ |
-| José Guilherme Ferreira | [@joseguifs](https://github.com/joseguifs) |
-| Breno Borges | [@Brenoborgesbr](https://github.com/Brenoborgesbr) |
-| Mario Felipe | [@Mario-FelipeBN](https://github.com/Mario-FelipeBN) |
-| Matheus Felipe | [@MatheusF-del](https://github.com/MatheusF-del) |
+#### 🛠️ Tecnologias
 
+| Camada | Tecnologias utilizadas |
+| :--- | :--- |
+| **Interface** | `React 19` · `TypeScript` · `Vite` · `React Router` |
+| **API** | `Python` · `FastAPI` · `SQLAlchemy assíncrono` · `Pydantic` · `Alembic` |
+| **Banco de dados** | `PostgreSQL` |
+| **Pagamentos** | `Mercado Pago Checkout Pro` |
+| **Qualidade e testes** | `Pytest` · `Ruff` · `mypy` · `Vitest` · `Testing Library` · `Oxlint` |
 
-📦 Repositório
+#### 👥 Nossa equipe
 
-🔗 [Acessar repositório do Obra Circular](https://github.com/joseguifs/obraCircular)
+| Integrante | GitHub |
+| :--- | :--- |
+| **José Guilherme Ferreira** | [@joseguifs](https://github.com/joseguifs) |
+| **Breno Borges** | [@Brenoborgesbr](https://github.com/Brenoborgesbr) |
+| **Mario Felipe** | [@Mario-FelipeBN](https://github.com/Mario-FelipeBN) |
+| **Matheus Felipe** | [@MatheusF-del](https://github.com/MatheusF-del) |
 
-📑 Documentação e demonstrações
+#### 📚 Conheça o sistema
 
-| Recurso | Link |
-|---|---|
-| Sistema — configuração e execução local | [Acessar instruções](https://github.com/joseguifs/obraCircular#primeira-configuração) |
-| Repositório oficial | [Acessar repositório](https://github.com/joseguifs/obraCircular) |
-| Vídeo demonstrativo | A disponibilizar |
-| Apresentação do projeto | A disponibilizar |
-| Documentação técnica do backend | [Acessar documentação](https://github.com/joseguifs/obraCircular/blob/HEAD/backend/README.md) |
-| Documentação técnica do frontend | [Acessar documentação](https://github.com/joseguifs/obraCircular/blob/HEAD/frontend/README.md) |
+| Recurso | Onde acessar |
+| :--- | :--- |
+| **Código-fonte** | [Repositório oficial](https://github.com/joseguifs/obraCircular) |
+| **Configuração e execução local** | [Guia de instalação](https://github.com/joseguifs/obraCircular#primeira-configuração) |
+| **Backend** | [API, configuração e funcionalidades](https://github.com/joseguifs/obraCircular/blob/HEAD/backend/README.md) |
+| **Frontend** | [Interface, navegação e execução](https://github.com/joseguifs/obraCircular/blob/HEAD/frontend/README.md) |
 
-📸 Registro da equipe
+<details>
+  <summary><strong>🎬 Apresentação e demonstração</strong></summary>
 
+Vídeo demonstrativo e apresentação do projeto: **a disponibilizar**.
+
+</details>
+
+---
 
 7.3. 🚀 Grupo 3 — Nome do Projeto
 
