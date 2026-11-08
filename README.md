@@ -14,7 +14,7 @@ Bacharelado em Ciência da Computação
 Grupo 1 — Nome do Projeto
 [Grupo 2 — Obra Circular](#grupo-2-obra-circular)
 Grupo 3 — Nome do Projeto
-Grupo 4 — Nome do Projeto
+[Grupo 4 — SaveYourTime](#grupo-4-saveyourtime)
 Grupo 5 — Nome do Projeto
 Grupo 6 — Nome do Projeto
 🤝 Parceiros e Apoio Institucional
@@ -294,42 +294,71 @@ Documentação técnica	Acessar documentação
 
 Insira aqui a fotografia ou o registro da equipe.
 
-7.4. 🚀 Grupo 4 — Nome do Projeto
+<a id="grupo-4-saveyourtime"></a>
 
-Descrição do projeto
+### 7.4. ⏳ Grupo 4 — SaveYourTime
 
-Apresente o sistema, seu propósito, o público-alvo e as principais funcionalidades.
+<p align="center">
+  <a href="https://github.com/vitoriamrfontana/SaveYourTime"><strong>Explorar o repositório</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/vitoriamrfontana/SaveYourTime#readme">Documentação técnica</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/vitoriamrfontana/SaveYourTime">Executar o projeto</a>
+</p>
 
-🎯 Objetivos e funcionalidades
+#### 💡 Sobre o projeto
 
-Funcionalidade principal do sistema.
-Funcionalidade secundária.
-Recursos adicionais oferecidos aos usuários.
+O **SaveYourTime** é um aplicativo mobile voltado para gestão financeira comportamental e consumo consciente. Em vez de se limitar a planilhas tradicionais de receitas e despesas, o sistema traduz o valor monetário de produtos e desejos de compra em **horas de trabalho (horas de suor)** necessárias para quitá-los, conscientizando o usuário sobre o impacto real de cada gasto na sua vida e no seu tempo livre.
 
-💻 Tecnologias utilizadas
+A plataforma atua ativamente na prevenção de compras por impulso, no combate ao desperdício financeiro e no planejamento de longo prazo, reunindo inteligência comportamental, quarentena reflexiva de gastos e acompanhamento de metas em um só lugar.
 
-Tecnologia 1 · Tecnologia 2 · Tecnologia 3
+> **Nosso propósito:** transformar preços em tempo de vida e ajudar pessoas a conquistarem liberdade financeira por meio do consumo consciente.
 
-👥 Integrantes
+#### 🧭 Funcionalidades e jornada do usuário
 
-Nome	GitHub
-Nome do integrante 1	@usuario
-Nome do integrante 2	@usuario
-Nome do integrante 3	@usuario
-Nome do integrante 4	@usuario
+| Módulo | O que o sistema oferece |
+| :--- | :--- |
+| **01 · Conversor de Horas de Suor** | Converte o valor de produtos em horas úteis de trabalho e calcula o *Financial Health Score* do usuário. |
+| **02 · Quarentena e Cooldown (48h / 7d)** | Período de esfriamento reflexivo para desejos imediatos, com quiz de autocontrole para evitar impulsos. |
+| **03 · Detox de Assinaturas** | Rastreamento de mensalidades recorrentes, custo real por uso e detecção de serviços concorrentes/redundantes. |
+| **04 · 3 Potes (Regra 50-30-20)** | Divisão orçamentária entre Necessidades Básicas (50%), Estilo de Vida (30%) e Reserva/Dívidas (20%). |
+| **05 · Radar de Ofertas e Histórico** | Comparador de preços, monitoramento do menor preço histórico e alertas de oportunidade. |
+| **06 · Metas de Liberdade Financeira** | Projeção de patrimônio em "dias de liberdade" (dias vividos sem trabalhar) e cálculo de aceleração por economia. |
 
-📑 Links do projeto
+#### 🛠️ Tecnologias
 
-Recurso	Link
-Repositório oficial	Acessar repositório
-Landing page / Sistema	Acessar página
-Vídeo demonstrativo	Assistir ao vídeo
-Apresentação final	Ver apresentação
-Documentação técnica	Acessar documentação
+| Camada | Tecnologias utilizadas |
+| :--- | :--- |
+| **Mobile / Frontend** | `React Native` · `Expo SDK 52` · `JavaScript` · `StyleSheet (CSS-in-JS)` |
+| **API / Backend** | `Node.js` · `Express` · `Arquitetura MVC` · `REST API` |
+| **Controle de versão e gestão** | `Git` · `GitHub` · `Metodologia Ágil (Sprints)` |
 
-📸 Registro da equipe
+#### 👥 Nossa equipe
 
-Insira aqui a fotografia ou o registro da equipe.
+| Integrante | GitHub |
+| :--- | :--- |
+| **Vitória Maria Reis Fontana** | [@vitoriamrfontana](https://github.com/vitoriamrfontana) |
+| **Arthur Vinícius De Oliveira Carvalho** | [@arthur8409](https://github.com/arthur8409) |
+| **Murillo Fernandes** | [@murillofnandes](https://github.com/murillofnandes) |
+| **Tiago Veras Ferreira** | [@tiagovrsferreira](https://github.com/tiagovrsferreira) |
+| **Afonso Dglan** | [@dglan2003](https://github.com/dglan2003) |
+
+#### 📚 Conheça o sistema
+
+| Recurso | Onde acessar |
+| :--- | :--- |
+| **Código-fonte** | [Repositório oficial no GitHub](https://github.com/vitoriamrfontana/SaveYourTime) |
+| **Documentação técnica** | [README e arquitetura do projeto](https://github.com/vitoriamrfontana/SaveYourTime#readme) |
+| **Landing page / Demonstração** | Link a disponibilizar |
+| **Apresentação e Pitch** | Material a disponibilizar |
+
+#### 📸 Registro da equipe
+
+> **Espaço reservado para a foto do grupo.**
+>
+> O registro da equipe SaveYourTime será adicionado aqui.
+
+---
 
 7.5. 🚀 Grupo 5 — Nome do Projeto
 
