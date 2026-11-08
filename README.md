@@ -163,7 +163,19 @@ Insira aqui a fotografia ou o registro da equipe.
 
 7.2. 🚀 Grupo 2 — Obra Circular
 
-![Logotipo do Obra Circular](assets/grupo-2/Obra%20Circular_%20Constru%C3%A7%C3%A3o%20Sustent%C3%A1vel.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/grupo-2/Obra%20Circular_%20Constru%C3%A7%C3%A3o%20Sustent%C3%A1vel.png" alt="Obra Circular — compra e venda de materiais de construção" width="640">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Obra Circular</strong><br>
+      <sub>Construir também é reaproveitar.</sub>
+    </td>
+  </tr>
+</table>
 
 Descrição do projeto
 
