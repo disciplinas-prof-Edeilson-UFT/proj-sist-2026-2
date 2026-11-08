@@ -12,7 +12,7 @@ Bacharelado em Ciência da Computação
 💡 Projeto de Sistemas
 🛠 Projetos Desenvolvidos
 Grupo 1 — Nome do Projeto
-Grupo 2 — Nome do Projeto
+Grupo 2 — Obra Circular
 Grupo 3 — Nome do Projeto
 Grupo 4 — Nome do Projeto
 Grupo 5 — Nome do Projeto
@@ -161,48 +161,61 @@ Documentação técnica	Acessar documentação
 
 Insira aqui a fotografia ou o registro da equipe.
 
-7.2. 🚀 Grupo 2 — Nome do Projeto
+7.2. 🚀 Grupo 2 — Obra Circular
 
-!Logotipo do Projeto 2
+![Logotipo do Obra Circular](assets/grupo-2/Obra%20Circular_%20Constru%C3%A7%C3%A3o%20Sustent%C3%A1vel.png)
 
 Descrição do projeto
 
-Apresente o sistema desenvolvido, explicando o problema identificado, a solução proposta, o público-alvo e as principais funcionalidades.
+O Obra Circular é um marketplace para compra e venda de materiais de construção, voltado ao reaproveitamento de materiais e sobras de obras. A proposta é reduzir o desperdício e facilitar o acesso a materiais mais acessíveis, conectando pessoas que possuem itens disponíveis a compradores que precisam deles para construir ou reformar.
+
+O sistema atende pessoas em obras ou reformas, profissionais e empresas da construção civil. Pela plataforma, os usuários podem publicar anúncios com fotos, pesquisar materiais, tirar dúvidas com vendedores, realizar compras e acompanhar pedidos, pagamentos e a confirmação de entrega ou retirada.
 
 🎯 Objetivos e funcionalidades
 
-Funcionalidade principal do sistema.
-Funcionalidade secundária.
-Recursos adicionais oferecidos aos usuários.
+- Incentivar a economia circular e o reaproveitamento de materiais de construção.
+- Cadastrar e autenticar usuários, com gerenciamento de perfil e endereços.
+- Publicar e gerenciar anúncios com categorias, fotos, preços e quantidades disponíveis.
+- Consultar anúncios com busca e filtros, visualizar detalhes e fazer perguntas aos vendedores.
+- Realizar compras com pagamento integrado ao Mercado Pago e acompanhar pedidos e vendas.
+- Confirmar entrega ou retirada por PIN e permitir a abertura e o acompanhamento de contestações.
+- Disponibilizar um painel administrativo para gestão de usuários, anúncios e categorias.
 
 💻 Tecnologias utilizadas
 
-Tecnologia 1 · Tecnologia 2 · Tecnologia 3
+- Frontend: React 19 · TypeScript · Vite · React Router.
+- Backend: Python · FastAPI · SQLAlchemy assíncrono · Pydantic · Alembic.
+- Banco de dados: PostgreSQL.
+- Pagamentos: Mercado Pago Checkout Pro.
+- Qualidade e testes: Pytest · Ruff · mypy · Vitest · Testing Library · Oxlint.
 
 👥 Integrantes
 
-Nome	GitHub
-Nome do integrante 1	@usuario
-Nome do integrante 2	@usuario
-Nome do integrante 3	@usuario
-Nome do integrante 4	@usuario
+| Nome | Github |
+| ------------------------- | ------------------------------------------ |
+| José Guilherme Ferreira | [@joseguifs](https://github.com/joseguifs) |
+| Breno Borges | [@Brenoborgesbr](https://github.com/Brenoborgesbr) |
+| Mario Felipe | [@Mario-FelipeBN](https://github.com/Mario-FelipeBN) |
+| Matheus Felipe | [@MatheusF-del](https://github.com/MatheusF-del) |
+
 
 📦 Repositório
 
-🔗 Acessar repositório do projeto
+🔗 [Acessar repositório do Obra Circular](https://github.com/joseguifs/obraCircular)
 
 📑 Documentação e demonstrações
 
-Recurso	Link
-Landing page / Sistema	Acessar página
-Repositório oficial	Acessar repositório
-Vídeo demonstrativo	Assistir ao vídeo
-Apresentação do projeto	Ver apresentação
-Documentação técnica	Acessar documentação
+| Recurso | Link |
+|---|---|
+| Sistema — configuração e execução local | [Acessar instruções](https://github.com/joseguifs/obraCircular#primeira-configuração) |
+| Repositório oficial | [Acessar repositório](https://github.com/joseguifs/obraCircular) |
+| Vídeo demonstrativo | A disponibilizar |
+| Apresentação do projeto | A disponibilizar |
+| Documentação técnica do backend | [Acessar documentação](https://github.com/joseguifs/obraCircular/blob/HEAD/backend/README.md) |
+| Documentação técnica do frontend | [Acessar documentação](https://github.com/joseguifs/obraCircular/blob/HEAD/frontend/README.md) |
 
 📸 Registro da equipe
 
-Insira aqui a fotografia ou o registro da equipe.
 
 7.3. 🚀 Grupo 3 — Nome do Projeto
 
