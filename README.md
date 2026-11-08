@@ -232,6 +232,7 @@ A plataforma atende **pessoas em obras ou reformas, profissionais e empresas da 
 
 | Recurso | Onde acessar |
 | :--- | :--- |
+| **Landing page** | Link a disponibilizar |
 | **Código-fonte** | [Repositório oficial](https://github.com/joseguifs/obraCircular) |
 | **Configuração e execução local** | [Guia de instalação](https://github.com/joseguifs/obraCircular#primeira-configuração) |
 | **Backend** | [API, configuração e funcionalidades](https://github.com/joseguifs/obraCircular/blob/HEAD/backend/README.md) |
@@ -243,6 +244,16 @@ A plataforma atende **pessoas em obras ou reformas, profissionais e empresas da 
 Vídeo demonstrativo e apresentação do projeto: **a disponibilizar**.
 
 </details>
+
+#### 📸 Registro da equipe
+
+> **Espaço reservado para a foto do grupo.**
+>
+> O registro da equipe Obra Circular será adicionado aqui.
+
+<!-- Ao adicionar a foto em assets/grupo-2/, substitua o aviso acima pela imagem:
+![Equipe Obra Circular](assets/grupo-2/equipe.jpg)
+-->
 
 ---
 
