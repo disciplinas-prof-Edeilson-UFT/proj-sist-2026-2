@@ -338,10 +338,10 @@ A plataforma atua ativamente na prevenção de compras por impulso, no combate a
 | Integrante | GitHub |
 | :--- | :--- |
 | **Vitória Maria Reis Fontana** | [@vitoriamrfontana](https://github.com/vitoriamrfontana) |
-| **Arthur Vinícius De Oliveira Carvalho** | [@arthur8409](https://github.com/arthur8409) |
-| **Murillo Fernandes** | [@murillofnandes](https://github.com/murillofnandes) |
-| **Tiago Veras Ferreira** | [@tiagovrsferreira](https://github.com/tiagovrsferreira) |
-| **Afonso Dglan** | [@dglan2003](https://github.com/dglan2003) |
+| **Arthur Vinicius de Oliveira Carvalho** | [@arthur8409](https://github.com/arthur8409) |
+| **Murillo Fernandes de Oliveira** | [@murillofnandes](https://github.com/murillofnandes) |
+| **Tiago Veras Ferreira** | [@tiagoverasf](https://github.com/tiagoverasf) |
+| **Afonso Dglan Cirqueira Rodrigues** | [@AfonsoDglan](https://github.com/AfonsoDglan) |
 
 #### 📚 Conheça o sistema
 
