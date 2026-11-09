@@ -346,6 +346,20 @@ Insira aqui a fotografia ou o registro da equipe.
 
 ### 7.4. ⏳ Grupo 4 — SaveYourTime
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/grupo-4/SaveYourTime_Logo.png" alt="SaveYourTime — Gestão Financeira e Consumo Consciente" width="640">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>SaveYourTime</strong><br>
+      <sub>Transformando preços em tempo de vida.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/vitoriamrfontana/SaveYourTime"><strong>Explorar o repositório</strong></a>
   &nbsp;·&nbsp;
