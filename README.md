@@ -120,46 +120,94 @@ Esta seção apresenta os projetos desenvolvidos pelos grupos durante a discipli
 
 Cada projeto deverá conter uma descrição, os integrantes da equipe, os recursos tecnológicos utilizados e os links para o repositório, a demonstração e a documentação produzida.
 
-7.1. 🚀 Grupo 1 — Nome do Projeto
+<a id="grupo-1-Ortoo-Assistencia-veicular"></a>
 
-Descrição do projeto
+### 7.1. ♻️ Grupo 1 — ÖRTÖÖ Assistência Veicular
 
-Apresente o sistema desenvolvido, explicando o problema identificado, a solução proposta, o público-alvo e as principais funcionalidades.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/grupo-1/Ortoo_Logo.jpeg" alt="Obra Circular — compra e venda de materiais de construção" width="640">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>ÖRTÖÖ Assistência Veicular</strong><br>
+    </td>
+  </tr>
+</table>
 
-🎯 Objetivos e funcionalidades
+<p align="center">
+  <a href="https://github.com/viniciussdudu/Ortoo-Assistencia-veicular"><strong>Explorar o repositório</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/viniciussdudu/Ortoo-Assistencia-veicular">Executar o projeto</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/viniciussdudu/Ortoo-Assistencia-veicular">Documentação técnica</a>
+</p>
 
-Funcionalidade principal do sistema.
-Funcionalidade secundária.
-Recursos adicionais oferecidos aos usuários.
+#### 🛞 Sobre o projeto
 
-💻 Tecnologias utilizadas
+O ÖRTÖÖ é uma plataforma de assistência veicular sob demanda que conecta, por meio da geolocalização, pessoas que enfrentam imprevistos durante seus trajetos a prestadores de serviços próximos.
 
-Tecnologia 1 · Tecnologia 2 · Tecnologia 3
 
-👥 Integrantes
 
-Nome	GitHub
-Nome do integrante 1	@usuario
-Nome do integrante 2	@usuario
-Nome do integrante 3	@usuario
-Nome do integrante 4	@usuario
+#### 🧭 Da solicitação ao atendimento
 
-📦 Repositório
+| Etapa | O que o sistema oferece |
+| :--- | :--- |
+| **01 · Criar uma conta** | Cadastro, autenticação via JWT e gerenciamento de perfis (Motorista/Cliente e Mecânico/Prestador) com validação de documentos (CPF/CNPJ). |
+| **02 · Oferta de serviços** | Gerenciamento de serviços e categorias prestadas (guincho, mecânica, troca de pneu, etc.), com definição de valores e raio de atendimento em km. |
+| **03 · Localização e chamada** | Monitoramento via GPS em tempo real, busca de prestadores por categoria no mapa e criação de solicitações de socorro com coordenadas de origem. |
+| **04 · Pagamento e aceite** | Checkout integrado com suporte a PIX, Cartão (Stripe) e Dinheiro; liberação de aceite de chamados e canal de chat direto entre cliente e mecânico. |
+| **05 · Acompanhamento em tempo real** | Linha do tempo do status do atendimento (*Pendente*, *Aceito*, *A caminho*, *Em atendimento*, *Concluído*) com rastreamento do mecânico no mapa até a finalização. |
 
-🔗 Acessar repositório do projeto
+**Gestão da plataforma:** painel e APIs para controle de solicitações, conciliação de transações e atualização de disponibilidades dos prestadores em tempo real.
 
-📑 Documentação e demonstrações
+#### 🛠️ Tecnologias
 
-Recurso	Link
-Landing page / Sistema	Acessar página
-Repositório oficial	Acessar repositório
-Vídeo demonstrativo	Assistir ao vídeo
-Apresentação do projeto	Ver apresentação
-Documentação técnica	Acessar documentação
+| Camada | Tecnologias utilizadas |
+| :--- | :--- |
+| **Interface (Mobile)** | `React Native` · `Expo` · `Expo Router` · `TypeScript` · `React Native Maps` |
+| **API Backend** | `Node.js` · `Express` · `JWT` · `REST API` |
+| **Banco de dados** | `MySQL` |
+| **Pagamentos** | `Stripe API` (Cartões) · `PIX / Dinheiro` |
+| **Serviços e Geolocalização** | `Expo Location` · `Fetch API` |
 
-📸 Registro da equipe
+#### 👥 Nossa equipe
 
-Insira aqui a fotografia ou o registro da equipe.
+| Integrante | GitHub |
+| :--- | :--- |
+| **Vinicius Silveira** | [@viniciussdudu](https://github.com/viniciussdudu) |
+| **Klaus Henrique** | [@Klaus1215](https://github.com/Klaus1215) |
+| **Daniel Vinicius** | [@DrEggman00](https://github.com/DrEggman00) |
+| **Arthur Bispo** | [@bispo047](https://github.com/bispo047) |
+| **Thiago Soares** | [@Soares314](https://github.com/Soares314) |
+| **Samara Coelho** | [@SamaraCdS-UFT](https://github.com/SamaraCdS-UFT) |
+
+#### 📚 Conheça o sistema
+
+| Recurso | Onde acessar |
+| :--- | :--- |
+| **Landing page** | Link a disponibilizar |
+| **Código-fonte** | [Repositório oficial](https://github.com/viniciussdudu/Ortoo-Assistencia-veicular) |
+| **Configuração e execução local** | [Guia de instalação](https://github.com/viniciussdudu/Ortoo-Assistencia-veicular) |
+
+<details>
+  <summary><strong>🎬 Apresentação e demonstração</strong></summary>
+
+Vídeo demonstrativo e apresentação do projeto: **a disponibilizar**.
+
+</details>
+
+#### 📸 Registro da equipe
+
+> **Espaço reservado para a foto do grupo.**
+>
+> O registro da equipe ÖRTÖÖ será adicionado aqui.
+
+<!-- Ao adicionar a foto em assets/grupo-1/, substitua o aviso acima pela imagem:
+![ÖRTÖÖ](assets/grupo-1/equipe.jpg)
+-->
 
 ---
 
