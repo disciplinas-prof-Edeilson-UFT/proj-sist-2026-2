@@ -532,7 +532,7 @@ Esta seção reúne os documentos relacionados ao planejamento, à execução, �
 
 <div align="center">
 
-### 🎓 Projeto de Sistemas — 2026/1
+### 🎓 Projeto de Sistemas — 2026/2
 
 **Universidade Federal do Tocantins (UFT) · Câmpus de Palmas**  
 Bacharelado em Ciência da Computação
